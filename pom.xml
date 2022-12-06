@@ -6,7 +6,7 @@ xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLS
     <artifactId>project</artifactId>
     <version>0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>myapp</name>
+    <name>webapp</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -61,7 +61,7 @@ xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLS
                   <version>3.3.2</version>
              </plugin>
          </plugins>
-         <finalName>myapp</finalName>
+         <finalName>webapp</finalName>
     </build>
     <repositories>
         <repository>
